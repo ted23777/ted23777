@@ -1,6 +1,6 @@
 ### Bonjour 👋 Je suis Teddy 👨‍💻
 
-**Data Analyst | Consultant Data** — Limoges, France
+**Data Analyst | Consultant Data | Data Engineer** - Limoges, France
 
 Futur ingénieur informatique diplômé de 3iL Limoges (<a href="https://www.3il-ingenieurs.fr/">3iL</a>).
 
