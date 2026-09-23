@@ -1,10 +1,10 @@
 ### Bonjour 👋 Je suis Teddy 👨‍💻
 
-** Data Analyst | Consultant Data / BI | Data Engineer ** 
+Data Analyst | Consultant Data / BI | Data Engineer
 
 Futur ingénieur informatique diplômé de 3iL Limoges (<a href="https://www.3il-ingenieurs.fr/">3iL</a>).
 
-Je conçois des tableaux de bord décisionnels et j'automatise des chaînes de traitement de données, j'ai eu à travailler dans le milieu bancaires à deux reprises et au cours de ces expériences j'ai eu à travailler sur des projets de migration de solutions de reporting et de gestion d'inventaire via des scripts d'automatisation PowerShell + Python/API REST, ainsi que la conception et l'évolution de dashboards Power BI et Grafana.
+Je conçois des dashboards et j'automatise des chaînes de traitement de données, j'ai eu à travailler dans le milieu bancaires à deux reprises et au cours de ces expériences j'ai eu à travailler sur des projets de migration de solutions de reporting et de gestion d'inventaire via des scripts d'automatisation PowerShell + Python/API REST, ainsi que la conception et l'évolution de dashboards Power BI et Grafana.
 
 `SQL Server` · `SQL` · `PostgreSQL` · `Power BI` · `Power Query` · `DAX` · `Python` · `R` · `Git` · `Docker` · `Grafana` · `Java` 
 
